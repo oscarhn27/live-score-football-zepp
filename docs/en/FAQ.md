@@ -68,7 +68,7 @@ Not quite: there's a one-week free trial, after which the app costs $1.99.
 That price covers the services the app depends on, which aren't free
 themselves: the live-score-api.com data provider and the backend
 infrastructure that talks to it. In exchange, unlike many mobile apps or
-websites, Football Live has no ads, no betting odds shown anywhere, and
+websites, Football live score has no ads, no betting odds shown anywhere, and
 your usage data is never sold to third parties.
 
 </details>

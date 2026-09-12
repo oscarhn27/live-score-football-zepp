@@ -70,7 +70,7 @@ tiene un precio de 1,99 $.
 Ese precio cubre los servicios de los que depende la app, que no son
 gratuitos: el proveedor de datos live-score-api.com y la infraestructura
 que habla con él. A cambio, a diferencia de muchas apps móviles o webs,
-Fútbol Live no tiene anuncios, no muestra cuotas de apuestas en ningún
+Fútbol en directo no tiene anuncios, no muestra cuotas de apuestas en ningún
 sitio, y tus datos de uso nunca se venden a terceros.
 
 </details>

@@ -36,7 +36,7 @@
 ## Instalar la app
 
 1. Abre la app **Zepp** en tu móvil.
-2. Busca "Fútbol Live" en la tienda de mini-apps (o instala desde el enlace/QR
+2. Busca "Fútbol en directo" en la tienda de mini-apps (o instala desde el enlace/QR
    que te hayamos compartido).
 3. Sincroniza tu reloj para que la app se instale en él.
 

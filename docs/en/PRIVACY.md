@@ -1,6 +1,6 @@
 # Privacy
 
-Football Live is designed to ask for as little data as possible.
+Football live score is designed to ask for as little data as possible.
 
 ## What we DON'T collect
 

@@ -36,7 +36,7 @@
 ## Installing the app
 
 1. Open the **Zepp** app on your phone.
-2. Search for "Football Live" in the mini-app store (or install it from the
+2. Search for "Football live score" in the mini-app store (or install it from the
    link/QR code we shared with you).
 3. Sync your watch so the app gets installed on it.
 

@@ -1,8 +1,8 @@
-# Fútbol Live — Ayuda y documentación
+# Fútbol en directo — Ayuda y documentación
 
 *Read this in other languages:* **🇬🇧 [English](../../README.md)**
 
-Bienvenido al repositorio de documentación pública de **Fútbol Live**, la
+Bienvenido al repositorio de documentación pública de **Fútbol en directo**, la
 app de resultados de fútbol para relojes Amazfit / Zepp OS.
 
 Aquí encontrarás:

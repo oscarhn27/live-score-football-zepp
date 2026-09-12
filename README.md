@@ -1,8 +1,8 @@
-# Football Live — Help and documentation
+# Football live score — Help and documentation
 
 *Read this in other languages:* **🇪🇸 [Español](docs/es/README.md)**
 
-Welcome to the public documentation repository for **Football Live**, the
+Welcome to the public documentation repository for **Football live score**, the
 football results app for Amazfit / Zepp OS watches.
 
 Here you'll find:

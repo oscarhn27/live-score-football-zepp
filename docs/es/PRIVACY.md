@@ -1,6 +1,6 @@
 # Privacidad
 
-Fútbol Live está pensada para pedir el mínimo de datos posible.
+Fútbol en directo está pensada para pedir el mínimo de datos posible.
 
 ## Qué NO recogemos
 
