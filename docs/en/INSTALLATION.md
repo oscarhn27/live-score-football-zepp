@@ -2,8 +2,34 @@
 
 ## Requirements
 
-- An Amazfit/Zepp OS compatible watch, paired with the **Zepp** app on your
-  phone.
+- A compatible Amazfit/Zepp OS watch, paired with the **Zepp** app on your
+  phone. Supported models:
+
+  - Active 2 (Round)
+  - Active 2 NFC (Round)
+  - Active 3 Premium
+  - Active Edge
+  - Active Max
+  - Balance
+  - Balance 2
+  - Balance 2 XT
+  - Balance 3
+  - Balance 3 Ti
+  - Balance Ultra
+  - Cheetah (Round)
+  - Cheetah 2 Pro
+  - Cheetah 2 Ultra
+  - Cheetah Pro
+  - Cheetah Pro Kelvin Kiptum
+  - Falcon
+  - GTR 4
+  - GTR 4 Limited Edition
+  - T-Rex 3
+  - T-Rex 3 Pro (44mm)
+  - T-Rex 3 Pro (48mm)
+  - T-Rex Ultra
+  - T-Rex Ultra 2
+
 - The app needs your phone nearby and connected over Bluetooth: it's the
   phone that talks to the internet, the watch alone has no data connection.
 
@@ -16,8 +42,11 @@
 
 ## Choosing your leagues
 
-By default the app comes with the 5 major European leagues enabled: LaLiga,
-Premier League, Serie A, Bundesliga, and Ligue 1.
+By default the app comes with several major competitions enabled: LaLiga,
+Premier League, Serie A, Bundesliga, Ligue 1, and the Champions League. If
+you installed the app a while ago and don't see the Champions League among
+your active leagues, it just means you haven't updated in a bit — you can
+always enable it (or any other competition) manually, see below.
 
 To enable or disable any other competition in the world:
 

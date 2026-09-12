@@ -3,7 +3,33 @@
 ## Requisitos
 
 - Un reloj Amazfit/Zepp OS compatible, emparejado con la app **Zepp** en tu
-  móvil.
+  móvil. Modelos compatibles:
+
+  - Active 2 (Round)
+  - Active 2 NFC (Round)
+  - Active 3 Premium
+  - Active Edge
+  - Active Max
+  - Balance
+  - Balance 2
+  - Balance 2 XT
+  - Balance 3
+  - Balance 3 Ti
+  - Balance Ultra
+  - Cheetah (Round)
+  - Cheetah 2 Pro
+  - Cheetah 2 Ultra
+  - Cheetah Pro
+  - Cheetah Pro Kelvin Kiptum
+  - Falcon
+  - GTR 4
+  - GTR 4 Limited Edition
+  - T-Rex 3
+  - T-Rex 3 Pro (44mm)
+  - T-Rex 3 Pro (48mm)
+  - T-Rex Ultra
+  - T-Rex Ultra 2
+
 - La app necesita el móvil cerca y conectado por Bluetooth: es quien habla
   con internet, el reloj por sí solo no tiene datos.
 
@@ -16,8 +42,11 @@
 
 ## Elegir tus ligas
 
-Por defecto la app viene con las 5 grandes ligas activadas: LaLiga, Premier
-League, Serie A, Bundesliga y Ligue 1.
+Por defecto la app viene con varias competiciones activadas: LaLiga, Premier
+League, Serie A, Bundesliga, Ligue 1 y la Champions League. Si instalaste la
+app hace tiempo y no ves la Champions League entre tus ligas activas, solo
+significa que llevas un tiempo sin actualizar — siempre puedes activarla (o
+cualquier otra competición) manualmente, mira más abajo.
 
 Para activar o desactivar cualquier otra competición del mundo:
 
